@@ -3,7 +3,7 @@
 - OOP adalah paradigma pemprograman yang berorientasi object
 - Paradigma pemprograman adalah cara pandang dalam menyelesaikan masalah
 - Paradigma pemprograman yang lain adalah prosedural
-- 
+
 ## Daftar Isi
 
 1. [Object](./src/Object.java)
