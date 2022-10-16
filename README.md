@@ -10,7 +10,7 @@
 - [OOP 💉](OOP/README.md)
 
 
-## Tentang C
+## Tentang Java
 
 nama : Java<br/>
 sejak : 1995<br/>
@@ -20,7 +20,7 @@ paradigma pemrograman : [Multi-paradigm](https://en.wikipedia.org/wiki/Programmi
 situs web resmi : [Oracle](https://www.oracle.com/java/)<br/>
 learning : [Programer Zaman Now](https://www.youtube.com/c/ProgrammerZamanNow)
 
-## C compile
+## Java compile
 
 ```bash
 # compile
